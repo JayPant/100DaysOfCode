@@ -23,7 +23,7 @@ The problem requires us to split an array into m subarrays such that the maximum
 - **Space complexity**: `O(1)` - The additional space used is constant, apart from the input array.
 
 # Code
-```
+```java
 import java.util.Arrays;
 class Solution {
 
